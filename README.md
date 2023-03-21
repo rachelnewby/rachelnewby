@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rachelnewby
-- 🌱 I'm a software engineering student with Makers Academy, graduating in March 2023
+- 🌱 I'm a junior full stack software engineer
 - 👩🏼‍💻 I have experience with Ruby, JavaScript, and Python
 - 📫 rachelcnewby@gmail.com
